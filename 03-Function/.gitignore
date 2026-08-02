@@ -1,0 +1,9 @@
+dist/*
+!dist/
+
+!dist/anonymous-function.js
+!dist/arrow-functions.js
+!dist/function-rest-parameter.js
+!dist/optional-and-default-parameters.js
+!dist/type-annotations-with-functions.js
+!dist/void-and-never.js
