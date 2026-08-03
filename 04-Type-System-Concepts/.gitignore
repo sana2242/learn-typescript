@@ -1,0 +1,8 @@
+dist/*
+!dist/
+
+!dist/union-types.js
+!dist/literal-types.js
+!dist/nullable-types.js
+!dist/type-alias.js
+!dist/intersection-type.js
