@@ -1,0 +1,4 @@
+dist/*
+!dist/
+!dist/type-annotations-with-arrays.js
+!dist/type-annotations-with-multidimensional-arrays.js
