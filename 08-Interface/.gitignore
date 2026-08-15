@@ -1,0 +1,7 @@
+dist/*
+!dist/
+!dist/interface-intro.js
+!dist/interface-method-and-parameters.js
+!dist/reOpen-the-interface-and-use-cases.js
+!dist/interface-vs-type-aliases.js
+
