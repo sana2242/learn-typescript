@@ -1,0 +1,6 @@
+dist/*
+!dist/
+!dist/generics-intro.js
+!dist/generics-multiple-types.js
+!dist/generics-classes.js
+!dist/generics-and-interfaces.js
