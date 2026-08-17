@@ -1,0 +1,9 @@
+dist/*
+!dist/
+!dist/class-type-annotations.js
+!dist/class-access-modifiers.js
+!dist/class-accessors.js
+!dist/class-static-members.js
+!dist/class-implement-interface.js
+!dist/abstract-classes-and-members.js
+!dist/polymorphism-and-method-override.js
